@@ -1,5 +1,6 @@
 class Circle
   PI = 3.14159265359
+
   def initialize(radius)
     @radius = radius
   end

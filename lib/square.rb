@@ -1,5 +1,4 @@
 class Square
-  attr_reader :side
 
   def initialize(side)
     @side = side
