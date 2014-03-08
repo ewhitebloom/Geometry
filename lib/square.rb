@@ -13,8 +13,3 @@ class Square
   end
 
 end
-
-
-
-
-
